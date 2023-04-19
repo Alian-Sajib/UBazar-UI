@@ -1,6 +1,6 @@
 # UBazar-UI
 
-                                                      The UI of this Work....
+                                                The UI of this Work....
 
 
 
